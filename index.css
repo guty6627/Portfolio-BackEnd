@@ -1,15 +1,22 @@
-.container{
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7y9Q7W04TKG_BmQYGy4cBwKeHf32sS_QzfsohnUPpPL6IisMwIrNAK2o46tWW9mRGCPU&usqp=CAU);  
+.estilo{
+  background-image: url(https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_1280.jpg);  
   margin: 0.5em;
-  padding: 3em;
+  padding: 25px;
   color: rgb(249, 244, 244);
   font-family: Georgia, 'Times New Roman', Times, serif;
   border: 2px solid rgb(10, 10, 10);
+  border-radius: 10px;
 }
 .edu{
     margin: 0.5em;
-    padding: 2em;
+    padding: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(1, 6, 11);
     border: 2px solid rgb(10, 10, 10);
+    border-radius: 10px;
+    
+}
+.marco{
+  border: 1px solid rgb(10, 10, 10);
+  border-radius: 100px;
 }
